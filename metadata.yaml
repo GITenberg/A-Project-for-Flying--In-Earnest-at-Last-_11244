@@ -1,11 +1,16 @@
 _repo: A-Project-for-Flying--In-Earnest-at-Last-_11244
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardley, Robert
     gutenberg_agent_id: '3898'
     url: http://www.gutenberg.org/2009/agents/3898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11244#A-Project-for-Flying--In-Earnest-at-Last-
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
